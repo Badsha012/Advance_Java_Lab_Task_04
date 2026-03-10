@@ -34,36 +34,4 @@ The project follows the structure defined in the UML diagram:
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-https://github.com/Badsha012/Advance_Java_Lab_Task_04.git
-
-Compile the source code:
-
-##Bash
-javac *.java
-###Run the application:
-
-Bash
-java Start
-
-Bank Name: DBBL
----------------------------
-Savings Account Details:
-Number: 11111111
-Holder: OOP1
-Balance: 10000.0
-Interest Rate: 7.5%
----------------------------
-Fixed Account Details:
-Number: 11111112
-Holder: OOP1
-Balance: 100000.0
-Tenure Year: 10
-
-
-📜 Project Structure
-Bash
-├── Account.java        # Base Class
-├── SavingsAccount.java # Inherited Class
-├── FixedAccount.java   # Inherited Class
-├── Bank.java           # Composition Class
-└── Start.java          # Main Execution Class
+   git clone [https://github.com/Badsha012/Advance_Java_Lab_Task_04.git](https://github.com/Badsha012/Advance_Java_Lab_Task_04.git)
